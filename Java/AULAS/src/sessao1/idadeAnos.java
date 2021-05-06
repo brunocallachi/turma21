@@ -1,11 +1,12 @@
-package exercicios;
+package sessao1;
+
 
 import java.util.Scanner;
 
 //1. Faça um sistema que leia a idade de uma pessoa expressa em anos, meses e dias 
 //e mostre-a expressa apenas em dias. 
 
-public class exercicioIdade {
+public class idadeAnos {
 	public static void main (String args[]) 
 	{
 		Scanner leia = new Scanner (System.in);
@@ -22,3 +23,5 @@ public class exercicioIdade {
 		
 	}
 }
+
+

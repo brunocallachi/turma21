@@ -1,11 +1,10 @@
-package exercicios;
+package sessao1;
 
-//2. Faça um sistema que leia a idade de uma pessoa expressa em dias 
-//mostre-a expressa em anos, meses e dias. 
+
 
 import java.util.Scanner;
 
-public class ExercicioIdadeDias {
+public class idadeDias {
 	public static void main (String args[]) {
 		
 		Scanner leia = new Scanner (System.in);
@@ -20,4 +19,5 @@ public class ExercicioIdadeDias {
 		System.out.println("Você tem: " + diasVividos + " ano(s) de idade!! ");
 	}
 	
+
 }

@@ -1,8 +1,8 @@
-package exercicios;
+package aulasGeneratiON;
 
 import java.util.Scanner;
 
-public class PrimeiroExercicio {
+public class if_aulaEd {
 	public static void main (String args[])
 		{
 			Scanner leia = new Scanner(System.in);
