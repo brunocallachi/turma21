@@ -18,14 +18,14 @@ import java.util.Scanner;
 			numero = leia.nextInt();
 						
 
-			if ((x%2)==0) 
+			if ((numero%2)==0) 
 			{
 				
 				contadorPar = contadorPar+1;
 				
 			}
 		
-			if ((x%2)==1) 
+			if ((numero%2)==1) 
 			{
 				contadorimpar= contadorimpar+1;
 			}
