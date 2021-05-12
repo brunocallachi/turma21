@@ -1,6 +1,6 @@
 package classes;
 
-public class Estudante {
+public abstract class Estudante {
 	
 	//atributos - com segurança 
 	private int matricula;
